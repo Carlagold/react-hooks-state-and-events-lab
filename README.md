@@ -40,7 +40,7 @@ The actual functionality of changing our app's theme is handled in CSS, so all
 you have to do is set up the code to update the `className` of the div based on
 your state variable:
 
-```jsx
+```jsx]
 <div className="App dark">
 {/* for dark mode */}
 </div>
